@@ -1,2 +1,3 @@
 A test for git and github.
-Another feture dadded. 
+Another feture dadded.
+Third line added.
